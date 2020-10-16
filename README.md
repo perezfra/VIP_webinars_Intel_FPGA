@@ -1,6 +1,8 @@
 # VIP_webinars_Intel_FPGA
 Video Processing Reference Designs for Intel FPGAs
 
+##### Check the [latest updates](https://github.com/perezfra/VIP_webinars_Intel_FPGA/blob/main/Latest_updates.md) for new content added
+
 This repository contains project files, lab manual guides and video tutorials to implement Video Processing Applications using Intel FPGAs.
 We are running different sessions along Q4'2020 according to the following schedule:
 
