@@ -1,2 +1,20 @@
 # VIP_webinars_Intel_FPGA
 Video Processing Reference Designs for Intel FPGAs
+
+This repository contains project files, lab manual guides and video tutorials to implement Video Processing Applications using Intel FPGAs.
+We are running different sessions along Q4'2020 according to the following schedule:
+
+1.  Building a video processing pipeline (Oct, 14th and 21st)
+      Getting video processed through the devkit, incremental flow
+      Detailed step flow on hardware implementation
+      Software application development using C++ API for a Nios II CPU    
+2.  Strategies to debug a VIP pipeline (Nov, 4th)
+      Overview of system level considerations and key video concepts
+      Introduce the methods to build up and debug video systems
+      Overview of Avalon-ST Video protocol  
+3.  Integrate a simple custom component (Nov, 19th)        
+      How to add your “secret sauce” to the application
+      Step flow on how to develop a custom component compliant with VIP
+4.  Adding On Screen Display overlay (Dec, 16th)
+      Use a lightweight graphic library with Nios 
+      Add text and graphic content overlay on top of your live video
