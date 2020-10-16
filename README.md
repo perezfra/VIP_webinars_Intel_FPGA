@@ -24,5 +24,9 @@ We are running different sessions along Q4'2020 according to the following sched
 
 You can register [here](https://webinar.intel.com/PSGVideoIPWebQ420-REG) to attend the live sessions
 
+### We will build the Video Processing Application pictured below. By following a detailed step guide, you will learn how to implement the hardware pipeline in the FPGA fabric and how to develop a control software application for an embedded Nios II processor.
+
+Have a look at the intro [presentation].
+
 <img src="https://github.com/perezfra/VIP_webinars_Intel_FPGA/blob/main/VIP_webinars_application.png">
 
