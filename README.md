@@ -5,9 +5,9 @@ This repository contains project files, lab manual guides and video tutorials to
 We are running different sessions along Q4'2020 according to the following schedule:
 
 ### 1.    Building a video processing pipeline (Oct, 14th and 21st)
-Getting video processed through the devkit, incremental flow
-Detailed step flow on hardware implementation
-Software application development using C++ API for a Nios II CPU    
+    Getting video processed through the devkit, incremental flow
+    Detailed step flow on hardware implementation
+    Software application development using C++ API for a Nios II CPU    
 
 ### 2.    Strategies to debug a VIP pipeline (Nov, 4th)
 Overview of system level considerations and key video concepts
