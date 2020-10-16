@@ -24,5 +24,5 @@ We are running different sessions along Q4'2020 according to the following sched
 
 You can register [here](https://webinar.intel.com/PSGVideoIPWebQ420-REG) to attend the live sessions
 
-<img src="ttps://github.com/perezfra/VIP_webinars_Intel_FPGA/blob/main/VIP_webinars_application.png">
+<img src="https://github.com/perezfra/VIP_webinars_Intel_FPGA/blob/main/VIP_webinars_application.png">
 
