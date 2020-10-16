@@ -23,3 +23,4 @@ We are running different sessions along Q4'2020 according to the following sched
     - Add text and graphic content overlay on top of your live video
 
 You can register [here](https://webinar.intel.com/PSGVideoIPWebQ420-REG) to attend the live sessions
+
