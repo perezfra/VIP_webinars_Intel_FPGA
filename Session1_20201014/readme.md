@@ -1,4 +1,4 @@
-## Files from the Session 1 of the VIP webinar series
+## Files from the Session 1 (parts 1 & 2) of the VIP webinar series
 
 ### Session1_1_DP_loopback_design_v1.pdf
     Lab manual for the first design: Create a DisplayPort loopack design
