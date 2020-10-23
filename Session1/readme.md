@@ -1,8 +1,10 @@
-## Files from the Session 1 (parts 1 & 2) of the VIP webinar series
+## Files from the Session 1 (part 1) of the VIP webinar series
 
 ### Session1_1_DP_loopback_design_v1.pdf
     Lab manual for the first design: Create a DisplayPort loopack design
     No associatted project files
+
+## Files from the Session 1 (part 2) of the VIP webinar series
 
 ### Session1_2_Adding_VIP_cores_v1.pdf
     Lab manual for the second design: Adding the first VIP cores
