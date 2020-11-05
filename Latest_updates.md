@@ -1,5 +1,5 @@
 
-## October, 14th 2020
+## November, 4th 2020
   - Added lab manual [Session2_Debug_VIP_pipeline_System_Console_lab_v1.pdf](https://github.com/perezfra/VIP_webinars_Intel_FPGA/blob/main/Session2/Session2_Debug_VIP_pipeline_System_Console_lab_v1.pdf) to /Session2/ folder 
   - Added content slides [Session2_Debug_VIP_pipeline_v1_slides.pdf](https://github.com/perezfra/VIP_webinars_Intel_FPGA/blob/main/Session2/Session2_Debug_VIP_pipeline_v1_slides.pdf) to /Session2/ folder 
   - Added project files [2_Debugging_VIP_pipelines.tar.gz](https://github.com/perezfra/VIP_webinars_Intel_FPGA/blob/main/Session2/2_Debugging_VIP_pipelines.tar.gz) to /Session2/ folder 
