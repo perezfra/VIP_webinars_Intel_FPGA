@@ -14,6 +14,7 @@ We are running different sessions along Q4'2020 according to the following sched
 ### 2.  Strategies to debug a VIP pipeline (Nov, 4th)
     - Overview of system level considerations and key video concepts
     - Introduce the methods to build up and debug video systems
+    - Use System Console to control VIP cores when you don't have CPU or software available yet
     - Overview of Avalon-ST Video protocol  
 
 ### 3.  Integrate a simple custom component (Nov, 19th)        
