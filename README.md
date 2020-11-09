@@ -1,7 +1,7 @@
 # VIP_webinars_Intel_FPGA
 Video Processing Reference Designs for Intel FPGAs
 
-### Youtube Playlist with video tutorials [link](https://www.youtube.com/playlist?list=PLHf4H3HslXDAnFMz5SV3j-uSVFe15gr-h)
+#### Youtube [Playlist](https://www.youtube.com/playlist?list=PLHf4H3HslXDAnFMz5SV3j-uSVFe15gr-h) with video tutorials 
 
 ##### Check the [latest updates](https://github.com/perezfra/VIP_webinars_Intel_FPGA/blob/main/Latest_updates.md) for new content added
 
