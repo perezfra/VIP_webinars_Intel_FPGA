@@ -1,8 +1,8 @@
-## Files from the Session 2 of the VIP webinar series
+## Files from the Session 3 of the VIP webinar series
 
-### Session2 Debug_VIP_pipeline_v1_slides.pdf
-    Presentation material with design strategies and considerations to build efficient video pipelines with VIP suite 
+### Session3 Develop_Custom_VIP_Component_v1_slides.pdf
+    Presentation material on how to develop a custom component allowing the implementation of proprietary functionality in your video processign pipeline. This enables you to add your secret sauce to the application and differentiate from competition
 
-### Session2 Debug_VIP_pipeline_System_Console_lab_v1.pdf
-    Lab manual on how to use System Console debug tool to bring up and control your VIP pipeline when you don't have either CPU or software application ready yet 
-    Associatted project files: 2_Debugging_VIP_pipelines.tar.gz
+### Session3 Develop_Custom_VIP_Component_lab_v1.pdf
+    Lab manual on how to use the provided verilog HDL to build your sepecific component. This template solves the intergration in the Avalo-ST video, handling all the control and video packets, as well as the backpressure mechanism used to stall data and control the video flow. This template allows teh developer to focus only on adding their proprietary code.
+    Associatted project files: 3_Custom_VIP_component.tar.gz
