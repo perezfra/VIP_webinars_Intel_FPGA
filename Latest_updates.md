@@ -1,3 +1,8 @@
+## December, 16th 2020
+  - Added lab manual [Session4_OSD_Overlay_lab_v1.pdf](https://github.com/perezfra/VIP_webinars_Intel_FPGA/blob/main/Session4_OSD_overlay/Session4_OSD_Overlay_lab_v1.pdf) to /Session4/ folder 
+  - Added content slides [Session4_OSD_Overlay_slides.pdf](https://github.com/perezfra/VIP_webinars_Intel_FPGA/blob/main/Session4_OSD_overlay/Session4_OSD_Overlay_slides.pdf) to /Session4/ folder 
+  - Added project files [4_OSD_overlay.tar.gz](https://github.com/perezfra/VIP_webinars_Intel_FPGA/blob/main/Session4_OSD_overlay/4_OSD_overlay.tar.gz) to /Session4/ folder 
+  
 ## November, 19th 2020
   - Added lab manual [Session3_Develop_Custom_VIP_Component_lab_v1.pdf](https://github.com/perezfra/VIP_webinars_Intel_FPGA/blob/main/Session3_Custom_VIP_components/Session3_Develop_Custom_VIP_Component_lab_v1.pdf) to /Session3/ folder 
   - Added content slides [Session3_Develop_Custom_VIP_Component_slides.pdf](https://github.com/perezfra/VIP_webinars_Intel_FPGA/blob/main/Session3_Custom_VIP_components/Session3_Develop_Custom_VIP_Component_slides.pdf) to /Session3/ folder 
