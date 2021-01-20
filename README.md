@@ -33,5 +33,5 @@ We are running different sessions along Q4'2020 according to the following sched
 
 ### Have a look at the intro [presentation](https://github.com/perezfra/VIP_webinars_Intel_FPGA/blob/main/VIP_webinars_intro.pdf).
 
-<img src="https://github.com/perezfra/VIP_webinars_Intel_FPGA/blob/main/VIP_webinars_application.png">
+<img src="https://github.com/perezfra/VIP_webinars_Intel_FPGA/blob/main/VIP_webinars_final.png">
 
